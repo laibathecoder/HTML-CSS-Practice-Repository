@@ -1,0 +1,81 @@
+.first-id,.second-id,.third-id{
+    display:inline-block;
+    /* grid-template-columns: 80% 80% 80%; */
+    /* row-gap:10%; */
+}
+
+
+.main-div,.main-div-2,.main-div-3{
+    background-color: burlywood;
+    box-shadow: 2px 2px 4px rgb(125, 122, 122) ;
+    width:220px;
+    height: 430px;
+    display:inline-block;
+    padding-top: 20px;
+    border-radius: 10px;
+}
+.pic1{
+    width:220px;
+    height: 260px;
+    margin-bottom: 0px;
+    background-color:cadetblue;
+    border-radius: 6%;
+}
+
+.name,.name-2,.name-3{
+    font-family: Arial;
+    font-weight: bold;
+    font-size: larger;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+.roundimg-div,.roundimg-div-2,.roundimg-div-3{
+    display:inline-block;
+}
+.round-img,.round-img-2,.round-img-3{
+    border-radius: 50%;
+    width: 35px;
+    height: 32px;
+    margin-left: 10px;
+    background-color:white;
+}
+.friends-number,.friends-number-2,.friends-number-3{
+    font-family: Arial;
+    color:aliceblue;
+    display: inline-block;
+    vertical-align:10px;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    margin-left: 8px;
+}
+.fri-button,.fri-button-2,.fri-button-3{
+    margin-top: 16px;
+    height: 40px;
+    width: 120px;
+    background-color: rgb(49, 126, 193);
+    color:white;
+    border:none;
+    border-radius: 6px;
+    font-size:17px;
+    margin-left: 10px;
+}
+
+/* 10d-02-card style */
+
+.pic2{
+    width:220px;
+    height: 260px;
+    margin-bottom: 0px;
+    background-color: rgb(220, 60, 92);
+    border-radius: 6%;
+}
+
+/* 10d-03-card style */
+
+.pic3{
+    width:220px;
+    height: 260px;
+    margin-bottom: 0px;
+    background-color: rgba(233, 223, 223, 0.921);
+    border-radius: 6%;
+}
